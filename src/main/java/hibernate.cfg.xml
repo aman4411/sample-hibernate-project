@@ -14,6 +14,8 @@
 		<mapping class="com.sample_hibernate_project.Student"></mapping>
 		<mapping class="com.OneToOneMapping.Person"></mapping>
 		<mapping class="com.OneToOneMapping.Address"></mapping>
+		<mapping class="com.OneToManyMapping.Question"></mapping>
+		<mapping class="com.OneToManyMapping.Answer"></mapping>
 
 	</session-factory>
 </hibernate-configuration>
