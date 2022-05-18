@@ -16,6 +16,8 @@
 		<mapping class="com.OneToOneMapping.Address"></mapping>
 		<mapping class="com.OneToManyMapping.Question"></mapping>
 		<mapping class="com.OneToManyMapping.Answer"></mapping>
+		<mapping class="com.ManyToManyMapping.Employee"></mapping>
+		<mapping class="com.ManyToManyMapping.Project"></mapping>
 
 	</session-factory>
 </hibernate-configuration>
